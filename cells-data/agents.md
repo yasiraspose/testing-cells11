@@ -105,3 +105,4 @@ workbook.Save("output.xlsx");
 Refer to root agents.md for:
 - Boundaries
 - Testing guide
+- apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs
