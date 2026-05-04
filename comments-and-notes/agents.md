@@ -106,3 +106,5 @@ workbook.Save("output.xlsx");
 Refer to root agents.md for:
 - Boundaries
 - Testing guide
+- insert-a-threaded-comment-into-an-xlsx-workbook-loaded-in-memory-using-the-net-spreadsheet-library.cs
+- programmatically-retrieve-the-creation-timestamp-metadata-of-each-threaded-comment-within-an-xlsx-workbook.cs
