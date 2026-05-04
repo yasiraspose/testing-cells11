@@ -107,3 +107,4 @@ Refer to root agents.md for:
 - Testing guide
 - apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs
 - define-xlsx-worksheet-columns-that-enforce-strongly-typed-data-for-each-cell-ensuring-type-safety-during-import-and-export.cs
+- identify-appropriate-scenarios-for-applying-enumerators-when-processing-xlsx-files-during-data-extraction-and-manipulation-in-net-applications.cs
